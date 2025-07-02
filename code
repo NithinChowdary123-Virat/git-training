@@ -1,4 +1,5 @@
 Hello
+ 
 
 This is using to write the git Local Repository.
 
@@ -15,4 +16,6 @@ we need to merge from source to destination
 
  day 3 about the restore and revert/reset
  -- stash and conflict 
+
+this is for git reset command
 
