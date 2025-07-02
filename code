@@ -19,3 +19,8 @@ we need to merge from source to destination
 
 this is for git reset command
 
+now we are trying to do a task
+--
+that is you are creating a stash in master branch
+and accessing that stash into another branch
+
